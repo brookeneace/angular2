@@ -13,6 +13,7 @@ export class EntryComponent {
     comments: any[] = [
         {name: "John", comment: "A comment"},
         {name: "Jim", comment: "A comment"},
-        {name: "Jen", comment: "A comment"}
+        {name: "Jen", comment: "A comment"},
+        {name: "Brooke", comment: "My comment"}
     ]
 }
